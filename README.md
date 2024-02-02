@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Open source  JavaScript projects
 - 🤔 I’m looking for help with Node.js, MongoDB
 - 💬 Ask me about Java, PHP, JavaScript, DSA
-- 📫 How to reach me: iamvikashjain2199@gmail.com
+- 📫 How to reach me: jainvikash.2199@gmail.com
 - 😄 Pronouns: ...TT
 - ⚡ Traveling 
 -->
